@@ -1,0 +1,7 @@
+package sec02.ex01;
+
+@WebServlet("/calc")
+public class CalcServlet extends HttpServlet {
+	private static float USD_RATE = 1124.70F;
+	
+}
